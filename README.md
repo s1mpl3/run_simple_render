@@ -13,7 +13,10 @@ c. bloating the models with presentation methods (bad practice)
 
 d. a learning curve (this is extremely easy to use)
 
-## Latest Update (April 17 2015)
+## Latest Update
+####May 2 2015)
++ Link to GitHub.com
+####April 17 2015
 + Updates to documentation
 + Optionally pass arguments to the rendition. This will allow an even better reuse of the renditions
 
@@ -96,8 +99,8 @@ Or render a collection from the view  ex. /app/views/renditions/company/all_user
     </ul>
 
 
-## Contributing
+## GitHub
 
-Coming soon!!
+https://github.com/s1mpl3/run_simple_render
 
 
