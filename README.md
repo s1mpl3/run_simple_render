@@ -14,7 +14,9 @@ c. bloating the models with presentation methods (bad practice)
 d. a learning curve (this is extremely easy to use)
 
 ## Latest Update
-####May 2 2015)
+####May 3 2015
++ Fixing dependencies mess
+####May 2 2015
 + Link to GitHub.com
 ####April 17 2015
 + Updates to documentation
